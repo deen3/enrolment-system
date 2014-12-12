@@ -1,0 +1,34 @@
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\bin\Debug\SYSTEM_BNHS.vb.exe
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\bin\Debug\SYSTEM_BNHS.vb.pdb
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\bin\Debug\SYSTEM_BNHS.vb.xml
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\bin\Debug\mysql.data.dll
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.enrolment.resources
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.Resources.resources
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.vbproj.GenerateResource.Cache
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.exe
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.xml
+C:\Users\kienah\AppData\Local\Temporary Projects\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.pdb
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.exe
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.xml
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.pdb
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.enrolment.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.Resources.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.vbproj.GenerateResource.Cache
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\bin\Debug\SYSTEM_BNHS.vb.exe
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\bin\Debug\SYSTEM_BNHS.vb.pdb
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\bin\Debug\SYSTEM_BNHS.vb.xml
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\bin\Debug\mysql.data.dll
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.deleteStud.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.changeStudSection.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.home.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.preReg.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.login.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.addUser.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.editUser.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.deleteUser.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.editStudentsInfo.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.grades.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.userAccount.resources
+C:\Users\kienah\Documents\Visual Studio 2008\Projects\SYSTEM_BNHS.vb\SYSTEM_BNHS.vb\obj\Debug\SYSTEM_BNHS.vb.preRegInputGrade.resources

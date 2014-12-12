@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7E23698F-1616-42E0-AC8C-707BE3ABF5AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SYSTEM_BNHS.vb.My.MyApplication</StartupObject>
+    <RootNamespace>SYSTEM_BNHS.vb</RootNamespace>
+    <AssemblyName>SYSTEM_BNHS.vb</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>file.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SYSTEM_BNHS.vb.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SYSTEM_BNHS.vb.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mysql.data, Version=6.0.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\mySQLConnector\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addUser.Designer.vb">
+      <DependentUpon>addUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changeStudSection.Designer.vb">
+      <DependentUpon>changeStudSection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changeStudSection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteStud.Designer.vb">
+      <DependentUpon>deleteStud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="deleteStud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteUser.Designer.vb">
+      <DependentUpon>deleteUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="deleteUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editStudentsInfo.Designer.vb">
+      <DependentUpon>editStudentsInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editStudentsInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editUser.Designer.vb">
+      <DependentUpon>editUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enrolment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enrolment.Designer.vb">
+      <DependentUpon>enrolment.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grades.Designer.vb">
+      <DependentUpon>grades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.vb">
+      <DependentUpon>home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="preReg.Designer.vb">
+      <DependentUpon>preReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preRegInputGrade.Designer.vb">
+      <DependentUpon>preRegInputGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="preRegInputGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userAccount.Designer.vb">
+      <DependentUpon>userAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="addUser.resx">
+      <DependentUpon>addUser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changeStudSection.resx">
+      <DependentUpon>changeStudSection.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteStud.resx">
+      <DependentUpon>deleteStud.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteUser.resx">
+      <DependentUpon>deleteUser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editStudentsInfo.resx">
+      <DependentUpon>editStudentsInfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editUser.resx">
+      <DependentUpon>editUser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enrolment.resx">
+      <DependentUpon>enrolment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grades.resx">
+      <DependentUpon>grades.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preReg.resx">
+      <DependentUpon>preReg.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preRegInputGrade.resx">
+      <DependentUpon>preRegInputGrade.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userAccount.resx">
+      <DependentUpon>userAccount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\button_plain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\templatemo_left_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\bg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\header_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\button.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\button_active.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\search.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\BNHS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\user.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\file.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\wrong.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="file.ico" />
+    <None Include="img\Print_preview.png" />
+    <None Include="img\printer.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
